@@ -1,0 +1,33 @@
+body {
+  background: #bae5d5;
+  width: 80%;
+}
+header {
+  text-align: left;
+}
+
+h1 {
+  color: #393e46;
+  font-family: "Bebas Neue", cursive;
+  text-align: center;
+}
+
+h2 {
+  color: #393e46;
+  font-family: "Bebas Neue", cursive;
+  text-align: center;
+  direction: rtl;
+}
+.col-3 {
+  display: block;
+  margin: left auto;
+}
+.today {
+  text-align: left;
+}
+.grade {
+  text-align: left;
+}
+ruby {
+  align-content: left;
+}
